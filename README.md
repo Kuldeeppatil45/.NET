@@ -17,6 +17,7 @@ Visual Studio: Integrated development environment used for both frontend and bac
 Microsoft Access: Database management.
 
 Installation and Setup ---
+
 Configure the Database:
 Ensure Microsoft Access is installed and properly configured.
 Update the database connection settings in your project configuration to match your Microsoft Access setup.
