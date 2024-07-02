@@ -38,13 +38,37 @@ Contributing
 License
  - This project is licensed under the MIT License - see the LICENSE file for details.
 
-Screenshots
+ Screenshots
+
 Include some screenshots of your project to give users a visual understanding of its features and interface.
 
+
+ - E Walle Starting page of loading
+
+![loading page](https://github.com/Kuldeeppatil45/.NET/assets/141814286/f76668bc-04c9-43c2-b2f5-e2e42f9f3465)
+
+ - Registraion Page
+
+![Signup Page](https://github.com/Kuldeeppatil45/.NET/assets/141814286/4cead358-7ffe-40d7-867e-0d09ca7c3bb9)
+
+ - Login page
+
+![Ligin page](https://github.com/Kuldeeppatil45/.NET/assets/141814286/d45d071d-f8fb-4ffe-9178-d350458bb949)
+
  - Home Page
+![Home page 1](https://github.com/Kuldeeppatil45/.NET/assets/141814286/daedbbdf-9de8-4852-8ac6-0a5afd7e62e0)
+-           -                            -                            -                   -                  - 
+![Home page 2](https://github.com/Kuldeeppatil45/.NET/assets/141814286/48353687-be3d-4482-bd0a-4ee62cf4f8bf)
 
-User Registration
+ - Forget Password Page
 
-Dashboard
+![Forget password page](https://github.com/Kuldeeppatil45/.NET/assets/141814286/1e63b2dd-f01c-422a-b2cb-2c6b657a95fa)
 
-Transaction History
+ - Your Balance Page
+![Balance](https://github.com/Kuldeeppatil45/.NET/assets/141814286/fa4a80a5-b5d7-4994-a211-6e1f861a2e72)
+
+
+
+
+
+   
