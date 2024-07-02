@@ -37,3 +37,14 @@ Contributing
 
 License
  - This project is licensed under the MIT License - see the LICENSE file for details.
+
+Screenshots
+Include some screenshots of your project to give users a visual understanding of its features and interface.
+
+ - Home Page
+
+User Registration
+
+Dashboard
+
+Transaction History
