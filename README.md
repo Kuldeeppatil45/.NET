@@ -33,7 +33,7 @@ Usage
  - View History: Check your transaction history for details on all your transactions.
 
 Contributing
-Contributions are welcome! Please open an issue or submit a pull request for any improvements or bug fixes.
+ - Contributions are welcome! Please open an issue or submit a pull request for any improvements or bug fixes.
 
 License
-This project is licensed under the MIT License - see the LICENSE file for details.
+ - This project is licensed under the MIT License - see the LICENSE file for details.
