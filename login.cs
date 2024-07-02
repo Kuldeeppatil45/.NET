@@ -159,11 +159,9 @@ namespace EWALLET
                     //send otp
                     // send otp to mail
                     MailMessage mail = new MailMessage();
-                    mail.To.Add(Email); // use ur email id for demo
-                    // mail.CC.Add("pranavwankhede5@gmail.com");
-                    mail.CC.Add("gaikwadprasad2209@gmail.com");
-
-                    mail.From = new MailAddress("ewalletproject45@gmail.com");
+                    mail.To.Add(Email); 
+                  
+                    mail.From = new MailAddress("Email");
                     mail.Subject = "OPT - Secure Login System!";
                     string Body = "Your OTP is : " + otp1 + "\nDo not Share with Other!";
                     mail.Body = Body;
@@ -171,7 +169,7 @@ namespace EWALLET
                     smtp.Host = "smtp.gmail.com"; //Or Your SMTP Server Address
                     smtp.Port = 587;
                     smtp.UseDefaultCredentials = false;
-                    smtp.Credentials = new System.Net.NetworkCredential("ewalletproject45@gmail.com", "qlfbaskzyefylyxj");
+                    smtp.Credentials = new System.Net.NetworkCredential("Your email", "Your email password");
 
                     //Or your Smtp Email ID and Password
                     smtp.EnableSsl = true;
